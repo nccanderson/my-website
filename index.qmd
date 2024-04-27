@@ -22,7 +22,7 @@ I specialize in analyzing 3D movement data, capturing insights from human behavi
 
 ### Experience
 
-[**Cognitive3D**](https://cognitive3d.com/ "Analytics for VR, AR, MR") \| Lead Data Scientist \| June 2023 - present
+[**Cognitive3D**](https://cognitive3d.com/ "Analytics for VR, AR, MR") \| Data Scientist \| June 2023 - present
 
 **Brain, Attention, and Reality Lab, UBC** \| Senior Research Scientist \| January 2018 - present
 
