@@ -12,7 +12,31 @@ about:
       href: https://scholar.google.ca/citations?user=a7GBaxAAAAAJ&hl=en&authuser=1
 ---
 
-About me.
+### Data Scientist \| Researcher
+
+I'm a research scientist with 15+ years of experience in collecting and analyzing human movement data, most recently - in XR environments.
+
+I specialize in analyzing 3D movement data, capturing insights from human behaviour in AR/VR applications.
+
+### Experience
+
+[**Cognitive3D**](https://cognitive3d.com/ "Analytics for VR, AR, MR") \| Lead Data Scientist \| June 2023 - present
+
+**Brain, Attention, and Reality Lab, UBC** \| Senior Research Scientist \| January 2018 - present
+
+### Education
+
+**Vrije Universiteit Amsterdam**
+
+PhD Experimental Psychology \| 2017
+
+**University of British Columbia**
+
+MA Cognitive Psychology \| 2012
+
+**University of British Columbia**
+
+BSc Cognitive Systems, Cogntition and Brain \| 2007
 
 ```{r}
 1 + 1
