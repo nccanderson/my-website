@@ -1,10 +1,8 @@
 {
-  "hash": "68e580c09158f8d49aaed4b9ddfab970",
+  "hash": "2d30208fac23855944c38bb852475bf6",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site - testing continuous deployment with Netlify\nand staging. New comment.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [
-      "about_files"
-    ],
+    "markdown": "---\ntitle: \"About\"\nimage: images/UBC_20211104_PJ_4790.jpg\nabout:\n  template: trestles\n  links: \n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/nccanderson/\n    - icon: mortarboard\n      text: Google Scholar\n      href: https://scholar.google.ca/citations?user=a7GBaxAAAAAJ&hl=en&authuser=1\n---\n\n\nAbout this site - testing continuous deployment with Netlify and staging. New comment.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
