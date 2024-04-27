@@ -18,6 +18,8 @@ I'm a research scientist with 15+ years of experience in collecting and analyzin
 
 I specialize in analyzing 3D movement data, capturing insights from human behaviour in AR/VR applications.
 
+------------------------------------------------------------------------
+
 ### Experience
 
 [**Cognitive3D**](https://cognitive3d.com/ "Analytics for VR, AR, MR") \| Lead Data Scientist \| June 2023 - present
@@ -26,14 +28,8 @@ I specialize in analyzing 3D movement data, capturing insights from human behavi
 
 ### Education
 
-**Vrije Universiteit Amsterdam**
+**Vrije Universiteit Amsterdam** \| PhD Experimental Psychology \| 2017
 
-PhD Experimental Psychology \| 2017
+**University of British Columbia \|** MA Cognitive Psychology \| 2012
 
-**University of British Columbia**
-
-MA Cognitive Psychology \| 2012
-
-**University of British Columbia**
-
-BSc Cognitive Systems, Cogntition and Brain \| 2007
+**University of British Columbia \|** BSc Cognitive Systems, Cogntition and Brain \| 2007
