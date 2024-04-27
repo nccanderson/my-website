@@ -3,6 +3,7 @@ title: "About"
 ---
 
 About this site - testing continuous deployment with Netlify
+and staging. New comment.
 
 ```{r}
 1 + 1
