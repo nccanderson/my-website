@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: b3cb1022-c341-4e5a-be17-9c23838af384
+      url: 'https://nicolacanderson.ca'
