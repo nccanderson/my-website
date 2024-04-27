@@ -1,10 +1,18 @@
 ---
-title: "my-website"
+title: "Nicola C Anderson"
+image: images/UBC_20211104_PJ_4790.jpg
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nccanderson/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.ca/citations?user=a7GBaxAAAAAJ&hl=en&authuser=1
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+About me.
 
 ```{r}
 1 + 1

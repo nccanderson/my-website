@@ -2,16 +2,15 @@ project:
   type: website
 
 website:
-  title: "my-website"
+  title: "Nicola C Anderson"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     toc: true
 

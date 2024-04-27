@@ -1,7 +1,7 @@
 {
-  "hash": "556f1dd23688e0b30d28dbc02539a693",
+  "hash": "b59963062d4f6b0703443e64f4e2028f",
   "result": {
-    "markdown": "---\ntitle: \"my-website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Nicola C Anderson\"\nimage: images/UBC_20211104_PJ_4790.jpg\nabout:\n  template: trestles\n  links: \n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/nccanderson/\n    - icon: mortarboard\n      text: Google Scholar\n      href: https://scholar.google.ca/citations?user=a7GBaxAAAAAJ&hl=en&authuser=1\n---\n\n\nAbout me.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
