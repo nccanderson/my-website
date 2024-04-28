@@ -7,6 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "Resume"
+        href: ncca_resume.pdf
+        icon: link-45deg
 
 format:
   html:
